@@ -1,0 +1,5 @@
+// ISO Game: Cyberpunk Revolution
+public class CyberpunkRevolution {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Cyberpunk Revolution!");
+        // Add your Cyberpunk Revolution game script here
